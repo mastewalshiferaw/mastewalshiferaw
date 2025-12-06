@@ -1,7 +1,7 @@
 <!-- GitHub Profile README  -->
 
 <h1 align="center">Hi there 👋, I'm Mastewal</h1>
-<h3 align="center">Aspiring Back-End Developer | ALX Backend Web Development Learner | Future Full-Stack Engineer</h3>
+<h3 align="center">Back-End Developer | ALX Alumni | Aspiring Full-Stack Engineer</h3>
 
 ---
 

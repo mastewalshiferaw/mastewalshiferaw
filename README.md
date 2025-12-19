@@ -36,9 +36,13 @@ Here are a few types of projects I’m interested in:
 
 > 💡 *I'm always open to collaboration on meaningful, open-source, or mission-driven projects.*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mastewalshiferaw&show_icons=true&theme=tokyonight)
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mastewalshiferaw&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mastewalshiferaw&theme=tokyonight)
+
+
 
 ### 📫 Connect with Me
 

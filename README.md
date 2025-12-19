@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I graduated with **ALX Backend Web Development** program. I began my journey into software engineering because I am passionate about **solving real-world problems** and **building impactful web-based projects**.
+I graduated with **Backend Web Development** at **ALX** program. I began my journey into software engineering because I am passionate about **solving real-world problems** and **building impactful web-based projects**.
 
 🌟 **What inspires me**:  
 Turning ideas into scalable tech solutions that empower people and improve lives.
@@ -38,9 +38,7 @@ Here are a few types of projects I’m interested in:
 
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mastewalshiferaw&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mastewalshiferaw&theme=tokyonight)
 
 
 

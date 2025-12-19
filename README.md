@@ -1,7 +1,7 @@
 <!-- GitHub Profile README  -->
 
-<h1 align="center">Hi there 👋, I'm Mastewal Getu</h1>
-<h3 align="center">Backend Developer | ALX Alumni | Aspiring Full-Stack Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Mastewal Getu!</h1>
+<h3 align="center">SWE Student | Backend Developer | ALX Alumni | Aspiring Full-Stack Engineer</h3>
 
 ---
 
@@ -35,6 +35,8 @@ Here are a few types of projects I’m interested in:
 - 🧰 Backend systems that support scalable web apps
 
 > 💡 *I'm always open to collaboration on meaningful, open-source, or mission-driven projects.*
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mastewalshiferaw&show_icons=true&theme=tokyonight)
 
 ---
 

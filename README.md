@@ -1,13 +1,13 @@
 <!-- GitHub Profile README  -->
 
-<h1 align="center">Hi there 👋, I'm Mastewal</h1>
+<h1 align="center">Hi there 👋, I'm Mastewal Getu</h1>
 <h3 align="center">Backend Developer | ALX Alumni | Aspiring Full-Stack Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am currently a learner in the **ALX Backend Web Development** program. I began my journey into software engineering because I am passionate about **solving real-world problems** and **building impactful web-based projects**.
+I graduated with **ALX Backend Web Development** program. I began my journey into software engineering because I am passionate about **solving real-world problems** and **building impactful web-based projects**.
 
 🌟 **What inspires me**:  
 Turning ideas into scalable tech solutions that empower people and improve lives.
